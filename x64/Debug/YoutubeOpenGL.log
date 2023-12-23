@@ -1,0 +1,7 @@
+﻿  Main.cpp
+glfw3.lib(input.obj) : warning LNK4099: "" PDB не найден с "glfw3.lib(input.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+glfw3.lib(monitor.obj) : warning LNK4099: "" PDB не найден с "glfw3.lib(monitor.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+glfw3.lib(window.obj) : warning LNK4099: "" PDB не найден с "glfw3.lib(window.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+glfw3.lib(win32_joystick.obj) : warning LNK4099: "" PDB не найден с "glfw3.lib(win32_joystick.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+glfw3.lib(win32_window.obj) : warning LNK4099: "" PDB не найден с "glfw3.lib(win32_window.obj)" или на ""; компоновка объекта выполняется как при отсутствии отладочных данных
+  YoutubeOpenGL.vcxproj -> C:\Users\nadya\OneDrive\Рабочий стол\Учеба\МОКГ ЛАБЫ\Cube\x64\Debug\Cube.exe
